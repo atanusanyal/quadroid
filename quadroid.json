@@ -1,0 +1,186 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+
+
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/SVPSPdy/q-1.jpg",
+				"thumbUrl": "https://i.ibb.co/SVPSPdy/q-1.jpg",
+				"name": "Wallpaper_1",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/Cvvyzcy/q-2.jpg",
+				"thumbUrl": "https://i.ibb.co/Cvvyzcy/q-2.jpg",
+				"name": "Wallpaper_2",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/YW5sCyx/q-3.jpg",
+				"thumbUrl": "https://i.ibb.co/YW5sCyx/q-3.jpg",
+				"name": "Wallpaper_3",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/kg3V0cs/q-4.jpg",
+				"thumbUrl": "https://i.ibb.co/kg3V0cs/q-4.jpg",
+				"name": "Wallpaper_4",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/d0y3jw1/q-5.jpg",
+				"thumbUrl": "https://i.ibb.co/d0y3jw1/q-5.jpg",
+				"name": "Wallpaper_5",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/LNmgWzQ/q-6.jpg",
+				"thumbUrl": "https://i.ibb.co/LNmgWzQ/q-6.jpg",
+				"name": "Wallpaper_6",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/XsjVVmJ/q-7.jpg",
+				"thumbUrl": "https://i.ibb.co/XsjVVmJ/q-7.jpg",
+				"name": "Wallpaper_7",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/D8ncbnb/q-8.jpg",
+				"thumbUrl": "https://i.ibb.co/D8ncbnb/q-8.jpg",
+				"name": "Wallpaper_8",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/r4nbd8w/q-9.jpg",
+				"thumbUrl": "https://i.ibb.co/r4nbd8w/q-9.jpg",
+				"name": "Wallpaper_9",
+                "category": "people"
+			},
+            {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/D7Ykp3q/q-10.jpg",
+				"thumbUrl": "https://i.ibb.co/D7Ykp3q/q-10.jpg",
+				"name": "Wallpaper_10",
+                "category": "people"
+			},
+		{
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/QnYqwc6/q-11.jpg",
+				"thumbUrl": "https://i.ibb.co/QnYqwc6/q-11.jpg",
+				"name": "Wallpaper_11",
+                "category": "people"
+			},
+	    {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/k8qk9V8/q-12.jpg",
+				"thumbUrl": "https://i.ibb.co/k8qk9V8/q-12.jpg",
+				"name": "Wallpaper_12",
+                "category": "people"
+			},
+	     {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/7pr8qG0/q-13.jpg",
+				"thumbUrl": "https://i.ibb.co/7pr8qG0/q-13.jpg",
+				"name": "Wallpaper_13",
+                "category": "people"
+			},
+	     {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/HH0rf9N/q-14.jpg",
+				"thumbUrl": "https://i.ibb.co/HH0rf9N/q-14.jpg",
+				"name": "Wallpaper_14",
+                "category": "people"
+			},
+	     {
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/GHyp2P4/q-15.jpg",
+				"thumbUrl": "https://i.ibb.co/GHyp2P4/q-15.jpg",
+				"name": "Wallpaper_15",
+                "category": "people"
+			},
+		{
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/bLzMkn1/q-16.jpg",
+				"thumbUrl": "https://i.ibb.co/bLzMkn1/q-16.jpg",
+				"name": "Wallpaper_16",
+                "category": "people"
+			},
+		{
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/F7MSDcx/q-17.jpg",
+				"thumbUrl": "https://i.ibb.co/F7MSDcx/q-17.jpg",
+				"name": "Wallpaper_17",
+                "category": "people"
+			},
+		{
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/fCtrmYJ/q-18.jpg",
+				"thumbUrl": "https://i.ibb.co/fCtrmYJ/q-18.jpg",
+				"name": "Wallpaper_18",
+                "category": "people"
+			},
+		{
+				"author": "Web Reference",
+				"url": "https://i.ibb.co/7kC1YQ7/q-19.jpg",
+				"thumbUrl": "https://i.ibb.co/7kC1YQ7/q-19.jpg",
+				"name": "Wallpaper_19",
+                "category": "people"
+			}
+		]
+}
